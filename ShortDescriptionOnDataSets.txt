@@ -1,13 +1,3 @@
 Caroline Vincent <x22153926@student.ncirl.ie>
-Covid 19 Cases , Tests and Deaths by ZIP Code of Chicago residents
-Covid tests prior to 3/1/2020 are not included
-
-Akshay Shaju <x22152563@student.ncirl.ie>
-https://catalog.data.gov/dataset/single-use-parking-permit-on-street JSON
-Parking Permits issued for a particular purpose in designated parking zones or at specific locations for prearranged periods of time,and is not issued for commercial activities or to commercial vehicles
-
-Karthika Nair <x22105522@student.ncirl.ie>
-Law Enforcement Dispatched Calls for Service: Real-Time - Catalog (data.gov) i'll use JSON
-Detailed Emergency call logs made to the Law Enforcement Department
-
-Mary Cindrilla Moreira <x22114386@student.ncirl.ie>
+Electric Vehicle Population Data 
+The Dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicle
