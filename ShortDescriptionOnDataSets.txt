@@ -1,6 +1,6 @@
-Caroline Vincent <x22153926@student.ncirl.ie>
-Covid 19 Cases , Tests and Deaths by ZIP Code of Chicago residents
-Covid tests prior to 3/1/2020 are not included
+Caroline Vincent 
+<x22153926@student.ncirl.ie>
+Electric Vehicle Population Data that are currently registered through Washington State Department of Licensing.
 
 Akshay Shaju <x22152563@student.ncirl.ie>
 https://catalog.data.gov/dataset/single-use-parking-permit-on-street JSON
