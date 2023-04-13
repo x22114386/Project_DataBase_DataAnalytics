@@ -1,3 +1,3 @@
 Caroline Vincent <x22153926@student.ncirl.ie>
-Electric Vehicle Population Data 
-The Dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicle
+Electric Vehicle Population Data of Washington State Department of Licensing (DOL).
+The Dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicle that are currently registered through Washington State Department of Licensing (DOL).
