@@ -3,8 +3,8 @@ Covid 19 Cases , Tests and Deaths by ZIP Code of Chicago residents
 Covid tests prior to 3/1/2020 are not included
 
 Akshay Shaju <x22152563@student.ncirl.ie>
-https://catalog.data.gov/dataset/single-use-parking-permit-on-street JSON
-Parking Permits issued for a particular purpose in designated parking zones or at specific locations for prearranged periods of time,and is not issued for commercial activities or to commercial vehicles
+https://catalog.data.gov/dataset/street-tree-list
+This dataset deals with the List of dpw maintained street trees including: Planting date, species, and location.
 
 Karthika Nair <x22105522@student.ncirl.ie>
 Law Enforcement Dispatched Calls for Service: Real-Time - Catalog (data.gov) i'll use JSON
