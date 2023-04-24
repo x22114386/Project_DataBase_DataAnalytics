@@ -1,0 +1,1001 @@
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",25-04-2023 02:00:00,PM2.5,2,23,11,NA
+2,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",25-04-2023 02:00:00,PM10,10,42,24,NA
+3,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",25-04-2023 02:00:00,NO2,3,15,8,NA
+4,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",25-04-2023 02:00:00,NH3,4,5,4,NA
+5,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",25-04-2023 02:00:00,SO2,4,24,11,NA
+6,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",25-04-2023 02:00:00,CO,38,91,57,NA
+7,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",25-04-2023 02:00:00,OZONE,2,34,12,NA
+8,India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",25-04-2023 02:00:00,PM2.5,33,55,45,NA
+9,India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",25-04-2023 02:00:00,PM10,34,61,44,NA
+10,India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",25-04-2023 02:00:00,NO2,19,39,29,NA
+11,India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",25-04-2023 02:00:00,NH3,2,3,3,NA
+12,India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",25-04-2023 02:00:00,SO2,9,25,13,NA
+13,India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",25-04-2023 02:00:00,CO,20,42,27,NA
+14,India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",25-04-2023 02:00:00,OZONE,27,43,35,NA
+15,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",25-04-2023 02:00:00,PM2.5,11,45,27,NA
+16,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",25-04-2023 02:00:00,PM10,25,56,39,NA
+17,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",25-04-2023 02:00:00,NO2,10,33,17,NA
+18,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",25-04-2023 02:00:00,NH3,1,8,3,NA
+19,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",25-04-2023 02:00:00,SO2,8,16,12,NA
+20,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",25-04-2023 02:00:00,CO,8,60,28,NA
+21,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",25-04-2023 02:00:00,OZONE,6,8,7,NA
+22,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",25-04-2023 02:00:00,PM2.5,17,47,31,NA
+23,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",25-04-2023 02:00:00,PM10,17,56,33,NA
+24,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",25-04-2023 02:00:00,NO2,21,54,36,NA
+25,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",25-04-2023 02:00:00,NH3,2,3,2,NA
+26,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",25-04-2023 02:00:00,SO2,1,8,5,NA
+27,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",25-04-2023 02:00:00,CO,38,48,42,NA
+28,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",25-04-2023 02:00:00,OZONE,8,17,11,NA
+29,India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",25-04-2023 02:00:00,PM2.5,9,109,46,NA
+30,India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",25-04-2023 02:00:00,PM10,12,124,57,NA
+31,India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",25-04-2023 02:00:00,NO2,1,18,7,NA
+32,India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",25-04-2023 02:00:00,NH3,4,5,5,NA
+33,India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",25-04-2023 02:00:00,SO2,6,7,6,NA
+34,India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",25-04-2023 02:00:00,CO,22,52,25,NA
+35,India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",25-04-2023 02:00:00,OZONE,9,35,22,NA
+36,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",25-04-2023 02:00:00,PM2.5,22,116,53,NA
+37,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",25-04-2023 02:00:00,PM10,31,210,72,NA
+38,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",25-04-2023 02:00:00,NO2,15,64,30,NA
+39,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",25-04-2023 02:00:00,NH3,3,5,4,NA
+40,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",25-04-2023 02:00:00,SO2,8,23,15,NA
+41,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",25-04-2023 02:00:00,CO,1,62,14,NA
+42,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",25-04-2023 02:00:00,OZONE,14,44,20,NA
+43,India,Arunachal_Pradesh,Naharlagun,"Naharlagun, Naharlagun - APSPCB",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+44,India,Arunachal_Pradesh,Naharlagun,"Naharlagun, Naharlagun - APSPCB",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+45,India,Arunachal_Pradesh,Naharlagun,"Naharlagun, Naharlagun - APSPCB",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+46,India,Arunachal_Pradesh,Naharlagun,"Naharlagun, Naharlagun - APSPCB",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+47,India,Arunachal_Pradesh,Naharlagun,"Naharlagun, Naharlagun - APSPCB",25-04-2023 02:00:00,CO,NA,NA,NA,NA
+48,India,Arunachal_Pradesh,Naharlagun,"Naharlagun, Naharlagun - APSPCB",25-04-2023 02:00:00,OZONE,NA,NA,NA,NA
+49,India,Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",25-04-2023 02:00:00,PM2.5,10,362,61,NA
+50,India,Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",25-04-2023 02:00:00,PM10,14,406,103,NA
+51,India,Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",25-04-2023 02:00:00,NO2,20,72,37,NA
+52,India,Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",25-04-2023 02:00:00,NH3,3,5,4,NA
+53,India,Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",25-04-2023 02:00:00,SO2,2,107,29,NA
+54,India,Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",25-04-2023 02:00:00,CO,3,117,67,NA
+55,India,Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",25-04-2023 02:00:00,OZONE,1,103,33,NA
+56,India,Assam,Guwahati,"IITG, Guwahati - PCBA",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+57,India,Assam,Guwahati,"IITG, Guwahati - PCBA",25-04-2023 02:00:00,PM10,27,43,32,NA
+58,India,Assam,Guwahati,"IITG, Guwahati - PCBA",25-04-2023 02:00:00,NO2,1,8,2,NA
+59,India,Assam,Guwahati,"IITG, Guwahati - PCBA",25-04-2023 02:00:00,NH3,5,5,5,NA
+60,India,Assam,Guwahati,"IITG, Guwahati - PCBA",25-04-2023 02:00:00,SO2,5,6,6,NA
+61,India,Assam,Guwahati,"IITG, Guwahati - PCBA",25-04-2023 02:00:00,CO,8,11,9,NA
+62,India,Assam,Guwahati,"IITG, Guwahati - PCBA",25-04-2023 02:00:00,OZONE,7,35,14,NA
+63,India,Assam,Guwahati,"LGBI Airport, Guwahati - PCBA",25-04-2023 02:00:00,PM2.5,25,110,50,NA
+64,India,Assam,Guwahati,"LGBI Airport, Guwahati - PCBA",25-04-2023 02:00:00,PM10,33,146,68,NA
+65,India,Assam,Guwahati,"LGBI Airport, Guwahati - PCBA",25-04-2023 02:00:00,NO2,9,69,26,NA
+66,India,Assam,Guwahati,"LGBI Airport, Guwahati - PCBA",25-04-2023 02:00:00,NH3,1,7,2,NA
+67,India,Assam,Guwahati,"LGBI Airport, Guwahati - PCBA",25-04-2023 02:00:00,SO2,4,16,8,NA
+68,India,Assam,Guwahati,"LGBI Airport, Guwahati - PCBA",25-04-2023 02:00:00,CO,12,56,36,NA
+69,India,Assam,Guwahati,"LGBI Airport, Guwahati - PCBA",25-04-2023 02:00:00,OZONE,1,153,38,NA
+70,India,Assam,Guwahati,"Pan Bazaar, Guwahati - PCBA",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+71,India,Assam,Guwahati,"Pan Bazaar, Guwahati - PCBA",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+72,India,Assam,Guwahati,"Pan Bazaar, Guwahati - PCBA",25-04-2023 02:00:00,NO2,1,6,1,NA
+73,India,Assam,Guwahati,"Pan Bazaar, Guwahati - PCBA",25-04-2023 02:00:00,NH3,2,3,2,NA
+74,India,Assam,Guwahati,"Pan Bazaar, Guwahati - PCBA",25-04-2023 02:00:00,SO2,21,50,31,NA
+75,India,Assam,Guwahati,"Pan Bazaar, Guwahati - PCBA",25-04-2023 02:00:00,CO,14,90,56,NA
+76,India,Assam,Guwahati,"Pan Bazaar, Guwahati - PCBA",25-04-2023 02:00:00,OZONE,14,27,19,NA
+77,India,Assam,Guwahati,"Railway Colony, Guwahati - PCBA",25-04-2023 02:00:00,PM2.5,22,276,68,NA
+78,India,Assam,Guwahati,"Railway Colony, Guwahati - PCBA",25-04-2023 02:00:00,PM10,24,372,72,NA
+79,India,Assam,Guwahati,"Railway Colony, Guwahati - PCBA",25-04-2023 02:00:00,NO2,3,3,3,NA
+80,India,Assam,Guwahati,"Railway Colony, Guwahati - PCBA",25-04-2023 02:00:00,NH3,1,2,1,NA
+81,India,Assam,Guwahati,"Railway Colony, Guwahati - PCBA",25-04-2023 02:00:00,SO2,9,19,12,NA
+82,India,Assam,Guwahati,"Railway Colony, Guwahati - PCBA",25-04-2023 02:00:00,CO,13,98,65,NA
+83,India,Assam,Guwahati,"Railway Colony, Guwahati - PCBA",25-04-2023 02:00:00,OZONE,17,101,63,NA
+84,India,Assam,Nagaon,"Christianpatty, Nagaon - PCBA",25-04-2023 02:00:00,PM2.5,7,170,59,NA
+85,India,Assam,Nagaon,"Christianpatty, Nagaon - PCBA",25-04-2023 02:00:00,PM10,29,142,70,NA
+86,India,Assam,Nagaon,"Christianpatty, Nagaon - PCBA",25-04-2023 02:00:00,NO2,13,53,23,NA
+87,India,Assam,Nagaon,"Christianpatty, Nagaon - PCBA",25-04-2023 02:00:00,NH3,1,6,3,NA
+88,India,Assam,Nagaon,"Christianpatty, Nagaon - PCBA",25-04-2023 02:00:00,SO2,3,110,33,NA
+89,India,Assam,Nagaon,"Christianpatty, Nagaon - PCBA",25-04-2023 02:00:00,CO,4,120,77,NA
+90,India,Assam,Nagaon,"Christianpatty, Nagaon - PCBA",25-04-2023 02:00:00,OZONE,31,98,53,NA
+91,India,Assam,Nalbari,"Bata Chowk, Nalbari - PCBA",25-04-2023 02:00:00,PM2.5,5,306,84,NA
+92,India,Assam,Nalbari,"Bata Chowk, Nalbari - PCBA",25-04-2023 02:00:00,PM10,25,336,95,NA
+93,India,Assam,Nalbari,"Bata Chowk, Nalbari - PCBA",25-04-2023 02:00:00,NO2,1,16,8,NA
+94,India,Assam,Nalbari,"Bata Chowk, Nalbari - PCBA",25-04-2023 02:00:00,SO2,1,7,3,NA
+95,India,Assam,Nalbari,"Bata Chowk, Nalbari - PCBA",25-04-2023 02:00:00,CO,1,12,8,NA
+96,India,Assam,Nalbari,"Bata Chowk, Nalbari - PCBA",25-04-2023 02:00:00,OZONE,4,88,34,NA
+97,India,Assam,Silchar,"Tarapur, Silchar - PCBA",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+98,India,Assam,Silchar,"Tarapur, Silchar - PCBA",25-04-2023 02:00:00,PM10,4,46,21,NA
+99,India,Assam,Silchar,"Tarapur, Silchar - PCBA",25-04-2023 02:00:00,NO2,7,23,11,NA
+100,India,Assam,Silchar,"Tarapur, Silchar - PCBA",25-04-2023 02:00:00,NH3,1,1,1,NA
+101,India,Assam,Silchar,"Tarapur, Silchar - PCBA",25-04-2023 02:00:00,SO2,2,9,6,NA
+102,India,Assam,Silchar,"Tarapur, Silchar - PCBA",25-04-2023 02:00:00,CO,30,40,36,NA
+103,India,Assam,Silchar,"Tarapur, Silchar - PCBA",25-04-2023 02:00:00,OZONE,1,12,3,NA
+104,India,Assam,Sivasagar,"Girls College, Sivasagar - PCBA",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+105,India,Assam,Sivasagar,"Girls College, Sivasagar - PCBA",25-04-2023 02:00:00,PM10,17,33,24,NA
+106,India,Assam,Sivasagar,"Girls College, Sivasagar - PCBA",25-04-2023 02:00:00,NO2,13,27,19,NA
+107,India,Assam,Sivasagar,"Girls College, Sivasagar - PCBA",25-04-2023 02:00:00,NH3,1,8,4,NA
+108,India,Assam,Sivasagar,"Girls College, Sivasagar - PCBA",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+109,India,Assam,Sivasagar,"Girls College, Sivasagar - PCBA",25-04-2023 02:00:00,CO,6,24,18,NA
+110,India,Assam,Sivasagar,"Girls College, Sivasagar - PCBA",25-04-2023 02:00:00,OZONE,1,20,8,NA
+111,India,Bihar,Araria,"Kharahiya Basti, Araria - BSPCB",25-04-2023 02:00:00,PM2.5,17,170,46,NA
+112,India,Bihar,Araria,"Kharahiya Basti, Araria - BSPCB",25-04-2023 02:00:00,PM10,32,231,88,NA
+113,India,Bihar,Araria,"Kharahiya Basti, Araria - BSPCB",25-04-2023 02:00:00,NO2,35,72,51,NA
+114,India,Bihar,Araria,"Kharahiya Basti, Araria - BSPCB",25-04-2023 02:00:00,NH3,3,4,3,NA
+115,India,Bihar,Araria,"Kharahiya Basti, Araria - BSPCB",25-04-2023 02:00:00,SO2,9,23,18,NA
+116,India,Bihar,Araria,"Kharahiya Basti, Araria - BSPCB",25-04-2023 02:00:00,CO,40,64,55,NA
+117,India,Bihar,Araria,"Kharahiya Basti, Araria - BSPCB",25-04-2023 02:00:00,OZONE,12,46,24,NA
+118,India,Bihar,Arrah,"New DM Office, Arrah - BSPCB",25-04-2023 02:00:00,PM2.5,33,190,78,NA
+119,India,Bihar,Arrah,"New DM Office, Arrah - BSPCB",25-04-2023 02:00:00,PM10,41,135,101,NA
+120,India,Bihar,Arrah,"New DM Office, Arrah - BSPCB",25-04-2023 02:00:00,NO2,15,38,24,NA
+121,India,Bihar,Arrah,"New DM Office, Arrah - BSPCB",25-04-2023 02:00:00,NH3,6,8,7,NA
+122,India,Bihar,Arrah,"New DM Office, Arrah - BSPCB",25-04-2023 02:00:00,SO2,10,11,10,NA
+123,India,Bihar,Arrah,"New DM Office, Arrah - BSPCB",25-04-2023 02:00:00,CO,42,66,56,NA
+124,India,Bihar,Arrah,"New DM Office, Arrah - BSPCB",25-04-2023 02:00:00,OZONE,14,39,20,NA
+125,India,Bihar,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",25-04-2023 02:00:00,PM2.5,42,90,64,NA
+126,India,Bihar,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",25-04-2023 02:00:00,PM10,45,167,104,NA
+127,India,Bihar,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",25-04-2023 02:00:00,NO2,7,15,10,NA
+128,India,Bihar,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",25-04-2023 02:00:00,NH3,1,2,1,NA
+129,India,Bihar,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",25-04-2023 02:00:00,SO2,3,122,76,NA
+130,India,Bihar,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",25-04-2023 02:00:00,CO,6,98,28,NA
+131,India,Bihar,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",25-04-2023 02:00:00,OZONE,6,112,70,NA
+132,India,Bihar,Begusarai,"DRCC Anandpur, Begusarai - BSPCB",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+133,India,Bihar,Begusarai,"DRCC Anandpur, Begusarai - BSPCB",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+134,India,Bihar,Begusarai,"DRCC Anandpur, Begusarai - BSPCB",25-04-2023 02:00:00,NO2,13,19,14,NA
+135,India,Bihar,Begusarai,"DRCC Anandpur, Begusarai - BSPCB",25-04-2023 02:00:00,NH3,2,8,6,NA
+136,India,Bihar,Begusarai,"DRCC Anandpur, Begusarai - BSPCB",25-04-2023 02:00:00,SO2,15,55,39,NA
+137,India,Bihar,Begusarai,"DRCC Anandpur, Begusarai - BSPCB",25-04-2023 02:00:00,CO,8,42,27,NA
+138,India,Bihar,Begusarai,"DRCC Anandpur, Begusarai - BSPCB",25-04-2023 02:00:00,OZONE,4,29,15,NA
+139,India,Bihar,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",25-04-2023 02:00:00,PM2.5,12,283,88,NA
+140,India,Bihar,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",25-04-2023 02:00:00,PM10,44,179,110,NA
+141,India,Bihar,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",25-04-2023 02:00:00,NO2,14,27,19,NA
+142,India,Bihar,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",25-04-2023 02:00:00,NH3,1,11,3,NA
+143,India,Bihar,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",25-04-2023 02:00:00,SO2,10,14,12,NA
+144,India,Bihar,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",25-04-2023 02:00:00,CO,2,37,18,NA
+145,India,Bihar,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",25-04-2023 02:00:00,OZONE,1,80,44,NA
+146,India,Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",25-04-2023 02:00:00,PM2.5,35,77,55,NA
+147,India,Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",25-04-2023 02:00:00,PM10,41,145,84,NA
+148,India,Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",25-04-2023 02:00:00,NO2,17,57,34,NA
+149,India,Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",25-04-2023 02:00:00,NH3,3,8,5,NA
+150,India,Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",25-04-2023 02:00:00,SO2,20,29,26,NA
+151,India,Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",25-04-2023 02:00:00,CO,4,56,15,NA
+152,India,Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",25-04-2023 02:00:00,OZONE,55,102,68,NA
+153,India,Bihar,Bhagalpur,"Mayaganj, Bhagalpur - BSPCB",25-04-2023 02:00:00,PM2.5,40,107,68,NA
+154,India,Bihar,Bhagalpur,"Mayaganj, Bhagalpur - BSPCB",25-04-2023 02:00:00,PM10,54,226,124,NA
+155,India,Bihar,Bhagalpur,"Mayaganj, Bhagalpur - BSPCB",25-04-2023 02:00:00,NO2,35,59,45,NA
+156,India,Bihar,Bhagalpur,"Mayaganj, Bhagalpur - BSPCB",25-04-2023 02:00:00,NH3,8,10,9,NA
+157,India,Bihar,Bhagalpur,"Mayaganj, Bhagalpur - BSPCB",25-04-2023 02:00:00,SO2,16,19,17,NA
+158,India,Bihar,Bhagalpur,"Mayaganj, Bhagalpur - BSPCB",25-04-2023 02:00:00,CO,43,58,54,NA
+159,India,Bihar,Bhagalpur,"Mayaganj, Bhagalpur - BSPCB",25-04-2023 02:00:00,OZONE,11,41,18,NA
+160,India,Bihar,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",25-04-2023 02:00:00,PM2.5,5,57,27,NA
+161,India,Bihar,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",25-04-2023 02:00:00,PM10,63,168,117,NA
+162,India,Bihar,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",25-04-2023 02:00:00,NO2,9,10,9,NA
+163,India,Bihar,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",25-04-2023 02:00:00,NH3,1,2,2,NA
+164,India,Bihar,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",25-04-2023 02:00:00,SO2,10,12,11,NA
+165,India,Bihar,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",25-04-2023 02:00:00,CO,9,14,13,NA
+166,India,Bihar,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",25-04-2023 02:00:00,OZONE,3,8,5,NA
+167,India,Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+168,India,Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",25-04-2023 02:00:00,PM10,46,300,161,NA
+169,India,Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",25-04-2023 02:00:00,NO2,10,21,15,NA
+170,India,Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",25-04-2023 02:00:00,NH3,8,20,12,NA
+171,India,Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+172,India,Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",25-04-2023 02:00:00,CO,18,64,53,NA
+173,India,Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",25-04-2023 02:00:00,OZONE,14,58,32,NA
+174,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+175,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",25-04-2023 02:00:00,NO2,12,14,13,NA
+176,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",25-04-2023 02:00:00,SO2,9,15,14,NA
+177,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",25-04-2023 02:00:00,CO,26,102,70,NA
+178,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",25-04-2023 02:00:00,OZONE,16,25,21,NA
+179,India,Bihar,Gaya,"Kareemganj, Gaya - BSPCB",25-04-2023 02:00:00,PM2.5,8,35,19,NA
+180,India,Bihar,Gaya,"Kareemganj, Gaya - BSPCB",25-04-2023 02:00:00,PM10,40,128,82,NA
+181,India,Bihar,Gaya,"Kareemganj, Gaya - BSPCB",25-04-2023 02:00:00,NO2,20,23,21,NA
+182,India,Bihar,Gaya,"Kareemganj, Gaya - BSPCB",25-04-2023 02:00:00,NH3,9,10,10,NA
+183,India,Bihar,Gaya,"Kareemganj, Gaya - BSPCB",25-04-2023 02:00:00,SO2,33,36,35,NA
+184,India,Bihar,Gaya,"Kareemganj, Gaya - BSPCB",25-04-2023 02:00:00,CO,14,86,29,NA
+185,India,Bihar,Gaya,"Kareemganj, Gaya - BSPCB",25-04-2023 02:00:00,OZONE,37,129,73,NA
+186,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",25-04-2023 02:00:00,PM2.5,32,74,51,NA
+187,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",25-04-2023 02:00:00,PM10,48,91,69,NA
+188,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",25-04-2023 02:00:00,NO2,19,33,26,NA
+189,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",25-04-2023 02:00:00,NH3,1,5,3,NA
+190,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",25-04-2023 02:00:00,SO2,2,15,5,NA
+191,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",25-04-2023 02:00:00,CO,6,42,34,NA
+192,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",25-04-2023 02:00:00,OZONE,5,80,58,NA
+193,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",25-04-2023 02:00:00,PM2.5,23,78,50,NA
+194,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",25-04-2023 02:00:00,PM10,59,109,85,NA
+195,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",25-04-2023 02:00:00,NO2,28,67,39,NA
+196,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",25-04-2023 02:00:00,NH3,1,14,10,NA
+197,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",25-04-2023 02:00:00,SO2,4,16,9,NA
+198,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",25-04-2023 02:00:00,CO,12,44,28,NA
+199,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",25-04-2023 02:00:00,OZONE,17,69,45,NA
+200,India,Bihar,Katihar,"Mirchaibari, Katihar - BSPCB",25-04-2023 02:00:00,PM2.5,37,127,55,NA
+201,India,Bihar,Katihar,"Mirchaibari, Katihar - BSPCB",25-04-2023 02:00:00,PM10,55,133,75,NA
+202,India,Bihar,Katihar,"Mirchaibari, Katihar - BSPCB",25-04-2023 02:00:00,NO2,67,107,82,NA
+203,India,Bihar,Katihar,"Mirchaibari, Katihar - BSPCB",25-04-2023 02:00:00,NH3,1,1,1,NA
+204,India,Bihar,Katihar,"Mirchaibari, Katihar - BSPCB",25-04-2023 02:00:00,SO2,12,18,15,NA
+205,India,Bihar,Katihar,"Mirchaibari, Katihar - BSPCB",25-04-2023 02:00:00,CO,70,92,84,NA
+206,India,Bihar,Katihar,"Mirchaibari, Katihar - BSPCB",25-04-2023 02:00:00,OZONE,3,9,4,NA
+207,India,Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",25-04-2023 02:00:00,PM2.5,15,120,38,NA
+208,India,Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",25-04-2023 02:00:00,PM10,14,186,81,NA
+209,India,Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",25-04-2023 02:00:00,NO2,29,36,32,NA
+210,India,Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",25-04-2023 02:00:00,NH3,10,11,11,NA
+211,India,Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",25-04-2023 02:00:00,SO2,6,27,13,NA
+212,India,Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",25-04-2023 02:00:00,CO,43,107,74,NA
+213,India,Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",25-04-2023 02:00:00,OZONE,23,56,27,NA
+214,India,Bihar,Manguraha,"Forest Rest House, Manguraha - BSPCB",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+215,India,Bihar,Manguraha,"Forest Rest House, Manguraha - BSPCB",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+216,India,Bihar,Manguraha,"Forest Rest House, Manguraha - BSPCB",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+217,India,Bihar,Manguraha,"Forest Rest House, Manguraha - BSPCB",25-04-2023 02:00:00,NH3,NA,NA,NA,NA
+218,India,Bihar,Manguraha,"Forest Rest House, Manguraha - BSPCB",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+219,India,Bihar,Manguraha,"Forest Rest House, Manguraha - BSPCB",25-04-2023 02:00:00,CO,NA,NA,NA,NA
+220,India,Bihar,Manguraha,"Forest Rest House, Manguraha - BSPCB",25-04-2023 02:00:00,OZONE,35,85,61,NA
+221,India,Bihar,Motihari,"Gandak Colony, Motihari - BSPCB",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+222,India,Bihar,Motihari,"Gandak Colony, Motihari - BSPCB",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+223,India,Bihar,Motihari,"Gandak Colony, Motihari - BSPCB",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+224,India,Bihar,Motihari,"Gandak Colony, Motihari - BSPCB",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+225,India,Bihar,Motihari,"Gandak Colony, Motihari - BSPCB",25-04-2023 02:00:00,CO,13,90,41,NA
+226,India,Bihar,Motihari,"Gandak Colony, Motihari - BSPCB",25-04-2023 02:00:00,OZONE,19,41,34,NA
+227,India,Bihar,Munger,"Town Hall, Munger - BSPCB",25-04-2023 02:00:00,PM2.5,17,250,101,NA
+228,India,Bihar,Munger,"Town Hall, Munger - BSPCB",25-04-2023 02:00:00,PM10,64,247,134,NA
+229,India,Bihar,Munger,"Town Hall, Munger - BSPCB",25-04-2023 02:00:00,NO2,13,22,18,NA
+230,India,Bihar,Munger,"Town Hall, Munger - BSPCB",25-04-2023 02:00:00,NH3,2,3,2,NA
+231,India,Bihar,Munger,"Town Hall, Munger - BSPCB",25-04-2023 02:00:00,SO2,41,49,46,NA
+232,India,Bihar,Munger,"Town Hall, Munger - BSPCB",25-04-2023 02:00:00,CO,26,105,95,NA
+233,India,Bihar,Munger,"Town Hall, Munger - BSPCB",25-04-2023 02:00:00,OZONE,9,47,38,NA
+234,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",25-04-2023 02:00:00,PM2.5,13,177,52,NA
+235,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",25-04-2023 02:00:00,PM10,43,147,81,NA
+236,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+237,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",25-04-2023 02:00:00,NH3,2,4,2,NA
+238,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",25-04-2023 02:00:00,SO2,3,12,9,NA
+239,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",25-04-2023 02:00:00,CO,10,40,29,NA
+240,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",25-04-2023 02:00:00,OZONE,13,31,19,NA
+241,India,Bihar,Muzaffarpur,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",25-04-2023 02:00:00,PM2.5,42,267,98,NA
+242,India,Bihar,Muzaffarpur,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",25-04-2023 02:00:00,PM10,64,226,116,NA
+243,India,Bihar,Muzaffarpur,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",25-04-2023 02:00:00,NO2,17,35,22,NA
+244,India,Bihar,Muzaffarpur,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",25-04-2023 02:00:00,NH3,4,4,4,NA
+245,India,Bihar,Muzaffarpur,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",25-04-2023 02:00:00,SO2,26,35,31,NA
+246,India,Bihar,Muzaffarpur,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",25-04-2023 02:00:00,CO,109,120,115,NA
+247,India,Bihar,Muzaffarpur,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",25-04-2023 02:00:00,OZONE,53,199,103,NA
+248,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",25-04-2023 02:00:00,PM2.5,31,138,59,NA
+249,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",25-04-2023 02:00:00,NO2,36,37,36,NA
+250,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",25-04-2023 02:00:00,SO2,20,25,23,NA
+251,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",25-04-2023 02:00:00,CO,92,103,98,NA
+252,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",25-04-2023 02:00:00,OZONE,86,266,143,NA
+253,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",25-04-2023 02:00:00,PM2.5,4,154,82,NA
+254,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",25-04-2023 02:00:00,PM10,12,199,98,NA
+255,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",25-04-2023 02:00:00,NO2,54,94,62,NA
+256,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",25-04-2023 02:00:00,NH3,11,14,13,NA
+257,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",25-04-2023 02:00:00,SO2,3,6,5,NA
+258,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",25-04-2023 02:00:00,CO,6,34,20,NA
+259,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",25-04-2023 02:00:00,OZONE,19,86,65,NA
+260,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",25-04-2023 02:00:00,PM2.5,45,102,82,NA
+261,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",25-04-2023 02:00:00,PM10,58,248,126,NA
+262,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",25-04-2023 02:00:00,NO2,5,15,10,NA
+263,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",25-04-2023 02:00:00,NH3,2,3,2,NA
+264,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",25-04-2023 02:00:00,SO2,16,41,26,NA
+265,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",25-04-2023 02:00:00,CO,10,48,37,NA
+266,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",25-04-2023 02:00:00,OZONE,7,53,17,NA
+267,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",25-04-2023 02:00:00,PM2.5,22,98,62,NA
+268,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",25-04-2023 02:00:00,NO2,73,87,81,NA
+269,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",25-04-2023 02:00:00,SO2,6,8,6,NA
+270,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",25-04-2023 02:00:00,CO,24,31,27,NA
+271,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",25-04-2023 02:00:00,OZONE,17,59,39,NA
+272,India,Bihar,Patna,"Muradpur, Patna - BSPCB",25-04-2023 02:00:00,PM2.5,113,330,246,NA
+273,India,Bihar,Patna,"Muradpur, Patna - BSPCB",25-04-2023 02:00:00,PM10,120,434,230,NA
+274,India,Bihar,Patna,"Muradpur, Patna - BSPCB",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+275,India,Bihar,Patna,"Muradpur, Patna - BSPCB",25-04-2023 02:00:00,NH3,NA,NA,NA,NA
+276,India,Bihar,Patna,"Muradpur, Patna - BSPCB",25-04-2023 02:00:00,SO2,9,12,10,NA
+277,India,Bihar,Patna,"Muradpur, Patna - BSPCB",25-04-2023 02:00:00,CO,10,42,36,NA
+278,India,Bihar,Patna,"Muradpur, Patna - BSPCB",25-04-2023 02:00:00,OZONE,18,62,32,NA
+279,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",25-04-2023 02:00:00,PM2.5,31,69,49,NA
+280,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",25-04-2023 02:00:00,PM10,112,178,153,NA
+281,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",25-04-2023 02:00:00,NO2,13,29,17,NA
+282,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",25-04-2023 02:00:00,NH3,4,6,5,NA
+283,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",25-04-2023 02:00:00,SO2,5,11,8,NA
+284,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",25-04-2023 02:00:00,CO,24,85,50,NA
+285,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",25-04-2023 02:00:00,OZONE,10,62,32,NA
+286,India,Bihar,Patna,"Samanpura, Patna - BSPCB",25-04-2023 02:00:00,PM2.5,33,171,65,NA
+287,India,Bihar,Patna,"Samanpura, Patna - BSPCB",25-04-2023 02:00:00,PM10,51,419,126,NA
+288,India,Bihar,Patna,"Samanpura, Patna - BSPCB",25-04-2023 02:00:00,NO2,24,188,69,NA
+289,India,Bihar,Patna,"Samanpura, Patna - BSPCB",25-04-2023 02:00:00,NH3,4,15,13,NA
+290,India,Bihar,Patna,"Samanpura, Patna - BSPCB",25-04-2023 02:00:00,SO2,1,18,8,NA
+291,India,Bihar,Patna,"Samanpura, Patna - BSPCB",25-04-2023 02:00:00,CO,22,68,56,NA
+292,India,Bihar,Patna,"Samanpura, Patna - BSPCB",25-04-2023 02:00:00,OZONE,20,96,65,NA
+293,India,Bihar,Purnia,"Mariam Nagar, Purnia - BSPCB",25-04-2023 02:00:00,PM2.5,117,263,164,NA
+294,India,Bihar,Purnia,"Mariam Nagar, Purnia - BSPCB",25-04-2023 02:00:00,PM10,86,185,102,NA
+295,India,Bihar,Purnia,"Mariam Nagar, Purnia - BSPCB",25-04-2023 02:00:00,NO2,32,40,36,NA
+296,India,Bihar,Purnia,"Mariam Nagar, Purnia - BSPCB",25-04-2023 02:00:00,NH3,7,11,9,NA
+297,India,Bihar,Purnia,"Mariam Nagar, Purnia - BSPCB",25-04-2023 02:00:00,SO2,4,12,9,NA
+298,India,Bihar,Purnia,"Mariam Nagar, Purnia - BSPCB",25-04-2023 02:00:00,CO,55,99,88,NA
+299,India,Bihar,Purnia,"Mariam Nagar, Purnia - BSPCB",25-04-2023 02:00:00,OZONE,15,25,18,NA
+300,India,Bihar,Rajgir,"Dangi Tola, Rajgir - BSPCB",25-04-2023 02:00:00,PM2.5,40,97,60,NA
+301,India,Bihar,Rajgir,"Dangi Tola, Rajgir - BSPCB",25-04-2023 02:00:00,PM10,47,117,83,NA
+302,India,Bihar,Rajgir,"Dangi Tola, Rajgir - BSPCB",25-04-2023 02:00:00,NO2,5,16,9,NA
+303,India,Bihar,Rajgir,"Dangi Tola, Rajgir - BSPCB",25-04-2023 02:00:00,NH3,1,2,1,NA
+304,India,Bihar,Rajgir,"Dangi Tola, Rajgir - BSPCB",25-04-2023 02:00:00,SO2,6,9,7,NA
+305,India,Bihar,Rajgir,"Dangi Tola, Rajgir - BSPCB",25-04-2023 02:00:00,CO,98,113,105,NA
+306,India,Bihar,Rajgir,"Dangi Tola, Rajgir - BSPCB",25-04-2023 02:00:00,OZONE,25,62,48,NA
+307,India,Bihar,Saharsa,"Police Line, Saharsa - BSPCB",25-04-2023 02:00:00,PM2.5,37,385,121,NA
+308,India,Bihar,Saharsa,"Police Line, Saharsa - BSPCB",25-04-2023 02:00:00,PM10,44,385,111,NA
+309,India,Bihar,Saharsa,"Police Line, Saharsa - BSPCB",25-04-2023 02:00:00,NO2,8,11,9,NA
+310,India,Bihar,Saharsa,"Police Line, Saharsa - BSPCB",25-04-2023 02:00:00,NH3,4,5,5,NA
+311,India,Bihar,Saharsa,"Police Line, Saharsa - BSPCB",25-04-2023 02:00:00,SO2,8,20,15,NA
+312,India,Bihar,Saharsa,"Police Line, Saharsa - BSPCB",25-04-2023 02:00:00,OZONE,1,11,3,NA
+313,India,Bihar,Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+314,India,Bihar,Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+315,India,Bihar,Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",25-04-2023 02:00:00,NO2,6,26,14,NA
+316,India,Bihar,Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",25-04-2023 02:00:00,NH3,4,5,5,NA
+317,India,Bihar,Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",25-04-2023 02:00:00,SO2,14,23,17,NA
+318,India,Bihar,Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",25-04-2023 02:00:00,CO,32,131,100,NA
+319,India,Bihar,Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",25-04-2023 02:00:00,OZONE,4,6,5,NA
+320,India,Bihar,Sasaram,"Dada Peer, Sasaram - BSPCB",25-04-2023 02:00:00,PM2.5,40,103,75,NA
+321,India,Bihar,Sasaram,"Dada Peer, Sasaram - BSPCB",25-04-2023 02:00:00,PM10,57,115,83,NA
+322,India,Bihar,Sasaram,"Dada Peer, Sasaram - BSPCB",25-04-2023 02:00:00,NO2,12,35,23,NA
+323,India,Bihar,Sasaram,"Dada Peer, Sasaram - BSPCB",25-04-2023 02:00:00,NH3,1,3,2,NA
+324,India,Bihar,Sasaram,"Dada Peer, Sasaram - BSPCB",25-04-2023 02:00:00,SO2,1,12,6,NA
+325,India,Bihar,Sasaram,"Dada Peer, Sasaram - BSPCB",25-04-2023 02:00:00,CO,14,38,27,NA
+326,India,Bihar,Sasaram,"Dada Peer, Sasaram - BSPCB",25-04-2023 02:00:00,OZONE,61,306,195,NA
+327,India,Bihar,Siwan,"Chitragupta Nagar, Siwan - BSPCB",25-04-2023 02:00:00,PM2.5,28,247,96,NA
+328,India,Bihar,Siwan,"Chitragupta Nagar, Siwan - BSPCB",25-04-2023 02:00:00,PM10,39,139,101,NA
+329,India,Bihar,Siwan,"Chitragupta Nagar, Siwan - BSPCB",25-04-2023 02:00:00,NO2,17,56,34,NA
+330,India,Bihar,Siwan,"Chitragupta Nagar, Siwan - BSPCB",25-04-2023 02:00:00,NH3,1,8,4,NA
+331,India,Bihar,Siwan,"Chitragupta Nagar, Siwan - BSPCB",25-04-2023 02:00:00,SO2,1,21,3,NA
+332,India,Bihar,Siwan,"Chitragupta Nagar, Siwan - BSPCB",25-04-2023 02:00:00,CO,46,73,58,NA
+333,India,Bihar,Siwan,"Chitragupta Nagar, Siwan - BSPCB",25-04-2023 02:00:00,OZONE,11,90,52,NA
+334,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",25-04-2023 02:00:00,PM2.5,37,85,54,NA
+335,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",25-04-2023 02:00:00,PM10,49,172,103,NA
+336,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",25-04-2023 02:00:00,NO2,16,167,48,NA
+337,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",25-04-2023 02:00:00,NH3,4,7,5,NA
+338,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",25-04-2023 02:00:00,SO2,2,83,28,NA
+339,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",25-04-2023 02:00:00,CO,34,104,57,NA
+340,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",25-04-2023 02:00:00,OZONE,8,261,156,NA
+341,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",25-04-2023 02:00:00,PM2.5,53,94,70,NA
+342,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",25-04-2023 02:00:00,PM10,68,126,101,NA
+343,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",25-04-2023 02:00:00,NO2,8,138,40,NA
+344,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",25-04-2023 02:00:00,NH3,7,95,20,NA
+345,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",25-04-2023 02:00:00,SO2,2,94,27,NA
+346,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",25-04-2023 02:00:00,CO,14,106,35,NA
+347,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",25-04-2023 02:00:00,OZONE,2,72,41,NA
+348,India,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",25-04-2023 02:00:00,PM2.5,38,147,75,NA
+349,India,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",25-04-2023 02:00:00,PM10,59,195,117,NA
+350,India,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",25-04-2023 02:00:00,NO2,26,156,64,NA
+351,India,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",25-04-2023 02:00:00,NH3,3,5,4,NA
+352,India,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",25-04-2023 02:00:00,SO2,3,48,18,NA
+353,India,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",25-04-2023 02:00:00,CO,37,118,62,NA
+354,India,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",25-04-2023 02:00:00,OZONE,2,130,66,NA
+355,India,Chhattisgarh,Bhilai,"32Bungalows, Bhilai - CECB",25-04-2023 02:00:00,PM2.5,10,28,16,NA
+356,India,Chhattisgarh,Bhilai,"32Bungalows, Bhilai - CECB",25-04-2023 02:00:00,PM10,11,37,19,NA
+357,India,Chhattisgarh,Bhilai,"32Bungalows, Bhilai - CECB",25-04-2023 02:00:00,NO2,19,31,26,NA
+358,India,Chhattisgarh,Bhilai,"32Bungalows, Bhilai - CECB",25-04-2023 02:00:00,NH3,4,8,6,NA
+359,India,Chhattisgarh,Bhilai,"32Bungalows, Bhilai - CECB",25-04-2023 02:00:00,SO2,5,21,8,NA
+360,India,Chhattisgarh,Bhilai,"32Bungalows, Bhilai - CECB",25-04-2023 02:00:00,CO,16,55,18,NA
+361,India,Chhattisgarh,Bhilai,"32Bungalows, Bhilai - CECB",25-04-2023 02:00:00,OZONE,3,17,5,NA
+362,India,Chhattisgarh,Bhilai,"Civic Center, Bhilai - Bhilai Steel Plant",25-04-2023 02:00:00,PM2.5,6,22,10,NA
+363,India,Chhattisgarh,Bhilai,"Civic Center, Bhilai - Bhilai Steel Plant",25-04-2023 02:00:00,PM10,6,17,10,NA
+364,India,Chhattisgarh,Bhilai,"Civic Center, Bhilai - Bhilai Steel Plant",25-04-2023 02:00:00,NO2,8,12,9,NA
+365,India,Chhattisgarh,Bhilai,"Civic Center, Bhilai - Bhilai Steel Plant",25-04-2023 02:00:00,NH3,3,3,3,NA
+366,India,Chhattisgarh,Bhilai,"Civic Center, Bhilai - Bhilai Steel Plant",25-04-2023 02:00:00,SO2,5,11,7,NA
+367,India,Chhattisgarh,Bhilai,"Civic Center, Bhilai - Bhilai Steel Plant",25-04-2023 02:00:00,CO,16,45,32,NA
+368,India,Chhattisgarh,Bhilai,"Civic Center, Bhilai - Bhilai Steel Plant",25-04-2023 02:00:00,OZONE,12,46,26,NA
+369,India,Chhattisgarh,Bhilai,"Hathkhoj, Bhilai - CECB",25-04-2023 02:00:00,PM2.5,7,34,17,NA
+370,India,Chhattisgarh,Bhilai,"Hathkhoj, Bhilai - CECB",25-04-2023 02:00:00,PM10,14,51,28,NA
+371,India,Chhattisgarh,Bhilai,"Hathkhoj, Bhilai - CECB",25-04-2023 02:00:00,NO2,7,23,11,NA
+372,India,Chhattisgarh,Bhilai,"Hathkhoj, Bhilai - CECB",25-04-2023 02:00:00,NH3,8,9,9,NA
+373,India,Chhattisgarh,Bhilai,"Hathkhoj, Bhilai - CECB",25-04-2023 02:00:00,SO2,7,55,22,NA
+374,India,Chhattisgarh,Bhilai,"Hathkhoj, Bhilai - CECB",25-04-2023 02:00:00,CO,9,106,19,NA
+375,India,Chhattisgarh,Bhilai,"Hathkhoj, Bhilai - CECB",25-04-2023 02:00:00,OZONE,14,26,18,NA
+376,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+377,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+378,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+379,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+380,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",25-04-2023 02:00:00,CO,82,108,82,NA
+381,India,Chhattisgarh,Chhal,"Nawapara SECL Colony, Chhal - CECB",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+382,India,Chhattisgarh,Chhal,"Nawapara SECL Colony, Chhal - CECB",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+383,India,Chhattisgarh,Chhal,"Nawapara SECL Colony, Chhal - CECB",25-04-2023 02:00:00,NO2,11,89,35,NA
+384,India,Chhattisgarh,Chhal,"Nawapara SECL Colony, Chhal - CECB",25-04-2023 02:00:00,NH3,1,3,2,NA
+385,India,Chhattisgarh,Chhal,"Nawapara SECL Colony, Chhal - CECB",25-04-2023 02:00:00,SO2,16,95,43,NA
+386,India,Chhattisgarh,Chhal,"Nawapara SECL Colony, Chhal - CECB",25-04-2023 02:00:00,CO,31,54,34,NA
+387,India,Chhattisgarh,Chhal,"Nawapara SECL Colony, Chhal - CECB",25-04-2023 02:00:00,OZONE,23,48,32,NA
+388,India,Chhattisgarh,Korba,"Rampur, Korba - CECB",25-04-2023 02:00:00,PM2.5,9,79,46,NA
+389,India,Chhattisgarh,Korba,"Rampur, Korba - CECB",25-04-2023 02:00:00,PM10,16,80,52,NA
+390,India,Chhattisgarh,Korba,"Rampur, Korba - CECB",25-04-2023 02:00:00,NO2,13,51,29,NA
+391,India,Chhattisgarh,Korba,"Rampur, Korba - CECB",25-04-2023 02:00:00,NH3,2,5,3,NA
+392,India,Chhattisgarh,Korba,"Rampur, Korba - CECB",25-04-2023 02:00:00,SO2,1,60,18,NA
+393,India,Chhattisgarh,Korba,"Rampur, Korba - CECB",25-04-2023 02:00:00,CO,10,36,22,NA
+394,India,Chhattisgarh,Korba,"Rampur, Korba - CECB",25-04-2023 02:00:00,OZONE,13,42,22,NA
+395,India,Chhattisgarh,Korba,"Urja Nagar, Korba - CECB",25-04-2023 02:00:00,PM2.5,8,74,53,NA
+396,India,Chhattisgarh,Korba,"Urja Nagar, Korba - CECB",25-04-2023 02:00:00,PM10,22,91,59,NA
+397,India,Chhattisgarh,Korba,"Urja Nagar, Korba - CECB",25-04-2023 02:00:00,NH3,14,18,16,NA
+398,India,Chhattisgarh,Korba,"Urja Nagar, Korba - CECB",25-04-2023 02:00:00,SO2,3,7,6,NA
+399,India,Chhattisgarh,Korba,"Urja Nagar, Korba - CECB",25-04-2023 02:00:00,CO,42,68,47,NA
+400,India,Chhattisgarh,Korba,"Urja Nagar, Korba - CECB",25-04-2023 02:00:00,OZONE,2,3,2,NA
+401,India,Chhattisgarh,Kunjemura,"OP Jindal School, Kunjemura - CECB",25-04-2023 02:00:00,PM2.5,15,20,17,NA
+402,India,Chhattisgarh,Kunjemura,"OP Jindal School, Kunjemura - CECB",25-04-2023 02:00:00,PM10,13,65,33,NA
+403,India,Chhattisgarh,Kunjemura,"OP Jindal School, Kunjemura - CECB",25-04-2023 02:00:00,NO2,15,140,47,NA
+404,India,Chhattisgarh,Kunjemura,"OP Jindal School, Kunjemura - CECB",25-04-2023 02:00:00,NH3,1,3,2,NA
+405,India,Chhattisgarh,Kunjemura,"OP Jindal School, Kunjemura - CECB",25-04-2023 02:00:00,SO2,8,91,21,NA
+406,India,Chhattisgarh,Kunjemura,"OP Jindal School, Kunjemura - CECB",25-04-2023 02:00:00,CO,17,37,22,NA
+407,India,Chhattisgarh,Kunjemura,"OP Jindal School, Kunjemura - CECB",25-04-2023 02:00:00,OZONE,10,58,40,NA
+408,India,Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",25-04-2023 02:00:00,PM2.5,15,38,23,NA
+409,India,Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",25-04-2023 02:00:00,PM10,14,48,25,NA
+410,India,Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",25-04-2023 02:00:00,NO2,18,66,40,NA
+411,India,Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",25-04-2023 02:00:00,NH3,8,15,12,NA
+412,India,Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",25-04-2023 02:00:00,SO2,7,33,16,NA
+413,India,Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",25-04-2023 02:00:00,CO,5,44,26,NA
+414,India,Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",25-04-2023 02:00:00,OZONE,20,55,33,NA
+415,India,Chhattisgarh,Raipur,"AIIMS, Raipur - CECB",25-04-2023 02:00:00,PM2.5,13,31,18,NA
+416,India,Chhattisgarh,Raipur,"AIIMS, Raipur - CECB",25-04-2023 02:00:00,PM10,15,59,22,NA
+417,India,Chhattisgarh,Raipur,"AIIMS, Raipur - CECB",25-04-2023 02:00:00,NO2,24,44,37,NA
+418,India,Chhattisgarh,Raipur,"AIIMS, Raipur - CECB",25-04-2023 02:00:00,NH3,4,4,4,NA
+419,India,Chhattisgarh,Raipur,"AIIMS, Raipur - CECB",25-04-2023 02:00:00,SO2,6,10,8,NA
+420,India,Chhattisgarh,Raipur,"AIIMS, Raipur - CECB",25-04-2023 02:00:00,CO,24,40,29,NA
+421,India,Chhattisgarh,Raipur,"AIIMS, Raipur - CECB",25-04-2023 02:00:00,OZONE,4,10,5,NA
+422,India,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",25-04-2023 02:00:00,PM2.5,8,17,12,NA
+423,India,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",25-04-2023 02:00:00,PM10,5,28,16,NA
+424,India,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",25-04-2023 02:00:00,NO2,35,57,45,NA
+425,India,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",25-04-2023 02:00:00,NH3,2,6,4,NA
+426,India,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",25-04-2023 02:00:00,SO2,2,3,2,NA
+427,India,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",25-04-2023 02:00:00,CO,14,22,18,NA
+428,India,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",25-04-2023 02:00:00,OZONE,3,12,6,NA
+429,India,Chhattisgarh,Raipur,"Krishak Nagar, Raipur - CECB",25-04-2023 02:00:00,PM2.5,4,19,12,NA
+430,India,Chhattisgarh,Raipur,"Krishak Nagar, Raipur - CECB",25-04-2023 02:00:00,PM10,11,33,18,NA
+431,India,Chhattisgarh,Raipur,"Krishak Nagar, Raipur - CECB",25-04-2023 02:00:00,NO2,49,89,78,NA
+432,India,Chhattisgarh,Raipur,"Krishak Nagar, Raipur - CECB",25-04-2023 02:00:00,NH3,1,2,2,NA
+433,India,Chhattisgarh,Raipur,"Krishak Nagar, Raipur - CECB",25-04-2023 02:00:00,SO2,7,10,8,NA
+434,India,Chhattisgarh,Raipur,"Krishak Nagar, Raipur - CECB",25-04-2023 02:00:00,CO,20,25,22,NA
+435,India,Chhattisgarh,Raipur,"Krishak Nagar, Raipur - CECB",25-04-2023 02:00:00,OZONE,4,27,7,NA
+436,India,Chhattisgarh,Raipur,"Siltara Phase-II, Raipur - CECB",25-04-2023 02:00:00,PM2.5,11,89,31,NA
+437,India,Chhattisgarh,Raipur,"Siltara Phase-II, Raipur - CECB",25-04-2023 02:00:00,PM10,21,158,56,NA
+438,India,Chhattisgarh,Raipur,"Siltara Phase-II, Raipur - CECB",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+439,India,Chhattisgarh,Raipur,"Siltara Phase-II, Raipur - CECB",25-04-2023 02:00:00,NH3,2,5,4,NA
+440,India,Chhattisgarh,Raipur,"Siltara Phase-II, Raipur - CECB",25-04-2023 02:00:00,SO2,6,15,8,NA
+441,India,Chhattisgarh,Raipur,"Siltara Phase-II, Raipur - CECB",25-04-2023 02:00:00,CO,18,42,29,NA
+442,India,Chhattisgarh,Raipur,"Siltara Phase-II, Raipur - CECB",25-04-2023 02:00:00,OZONE,6,65,14,NA
+443,India,Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",25-04-2023 02:00:00,PM2.5,22,50,31,NA
+444,India,Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",25-04-2023 02:00:00,PM10,20,104,47,NA
+445,India,Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",25-04-2023 02:00:00,NO2,24,75,44,NA
+446,India,Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",25-04-2023 02:00:00,NH3,6,14,10,NA
+447,India,Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",25-04-2023 02:00:00,SO2,8,49,23,NA
+448,India,Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",25-04-2023 02:00:00,CO,16,51,32,NA
+449,India,Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",25-04-2023 02:00:00,OZONE,11,54,51,NA
+450,India,Delhi,Delhi,"Alipur, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,40,391,148,NA
+451,India,Delhi,Delhi,"Alipur, Delhi - DPCC",25-04-2023 02:00:00,PM10,122,335,178,NA
+452,India,Delhi,Delhi,"Alipur, Delhi - DPCC",25-04-2023 02:00:00,NO2,15,67,35,NA
+453,India,Delhi,Delhi,"Alipur, Delhi - DPCC",25-04-2023 02:00:00,NH3,4,6,4,NA
+454,India,Delhi,Delhi,"Alipur, Delhi - DPCC",25-04-2023 02:00:00,SO2,11,66,28,NA
+455,India,Delhi,Delhi,"Alipur, Delhi - DPCC",25-04-2023 02:00:00,CO,10,42,20,NA
+456,India,Delhi,Delhi,"Alipur, Delhi - DPCC",25-04-2023 02:00:00,OZONE,5,152,69,NA
+457,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,45,332,181,NA
+458,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",25-04-2023 02:00:00,PM10,109,419,226,NA
+459,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",25-04-2023 02:00:00,NO2,42,194,107,NA
+460,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",25-04-2023 02:00:00,NH3,4,12,7,NA
+461,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",25-04-2023 02:00:00,SO2,23,39,28,NA
+462,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",25-04-2023 02:00:00,CO,5,70,13,NA
+463,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",25-04-2023 02:00:00,OZONE,6,108,31,NA
+464,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,38,345,104,NA
+465,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",25-04-2023 02:00:00,PM10,101,408,170,NA
+466,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",25-04-2023 02:00:00,NO2,11,58,33,NA
+467,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",25-04-2023 02:00:00,NH3,8,10,9,NA
+468,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",25-04-2023 02:00:00,SO2,7,49,16,NA
+469,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",25-04-2023 02:00:00,CO,55,102,64,NA
+470,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",25-04-2023 02:00:00,OZONE,2,52,22,NA
+471,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",25-04-2023 02:00:00,PM2.5,28,174,79,NA
+472,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",25-04-2023 02:00:00,PM10,67,149,111,NA
+473,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",25-04-2023 02:00:00,NO2,17,22,20,NA
+474,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",25-04-2023 02:00:00,CO,12,28,19,NA
+475,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",25-04-2023 02:00:00,OZONE,8,52,31,NA
+476,India,Delhi,Delhi,"Bawana, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,58,426,148,NA
+477,India,Delhi,Delhi,"Bawana, Delhi - DPCC",25-04-2023 02:00:00,PM10,138,421,209,NA
+478,India,Delhi,Delhi,"Bawana, Delhi - DPCC",25-04-2023 02:00:00,NO2,3,23,12,NA
+479,India,Delhi,Delhi,"Bawana, Delhi - DPCC",25-04-2023 02:00:00,NH3,7,10,8,NA
+480,India,Delhi,Delhi,"Bawana, Delhi - DPCC",25-04-2023 02:00:00,SO2,3,26,7,NA
+481,India,Delhi,Delhi,"Bawana, Delhi - DPCC",25-04-2023 02:00:00,CO,25,70,33,NA
+482,India,Delhi,Delhi,"Bawana, Delhi - DPCC",25-04-2023 02:00:00,OZONE,8,69,35,NA
+483,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",25-04-2023 02:00:00,PM2.5,14,350,95,NA
+484,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",25-04-2023 02:00:00,PM10,81,251,136,NA
+485,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+486,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",25-04-2023 02:00:00,CO,28,44,31,NA
+487,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",25-04-2023 02:00:00,OZONE,20,110,64,NA
+488,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",25-04-2023 02:00:00,PM2.5,35,120,75,NA
+489,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",25-04-2023 02:00:00,PM10,88,479,144,NA
+490,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",25-04-2023 02:00:00,NO2,18,22,20,NA
+491,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",25-04-2023 02:00:00,OZONE,18,187,71,NA
+492,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+493,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+494,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+495,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",25-04-2023 02:00:00,NH3,NA,NA,NA,NA
+496,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+497,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",25-04-2023 02:00:00,CO,94,118,105,NA
+498,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",25-04-2023 02:00:00,OZONE,12,37,21,NA
+499,India,Delhi,Delhi,"DTU, Delhi - CPCB",25-04-2023 02:00:00,PM2.5,35,306,88,NA
+500,India,Delhi,Delhi,"DTU, Delhi - CPCB",25-04-2023 02:00:00,PM10,105,478,178,NA
+501,India,Delhi,Delhi,"DTU, Delhi - CPCB",25-04-2023 02:00:00,NO2,13,57,35,NA
+502,India,Delhi,Delhi,"DTU, Delhi - CPCB",25-04-2023 02:00:00,NH3,7,8,7,NA
+503,India,Delhi,Delhi,"DTU, Delhi - CPCB",25-04-2023 02:00:00,SO2,41,129,70,NA
+504,India,Delhi,Delhi,"DTU, Delhi - CPCB",25-04-2023 02:00:00,CO,23,76,35,NA
+505,India,Delhi,Delhi,"DTU, Delhi - CPCB",25-04-2023 02:00:00,OZONE,9,264,83,NA
+506,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,28,113,66,NA
+507,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",25-04-2023 02:00:00,PM10,84,177,128,NA
+508,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",25-04-2023 02:00:00,NO2,4,133,50,NA
+509,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",25-04-2023 02:00:00,NH3,6,7,7,NA
+510,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",25-04-2023 02:00:00,SO2,6,32,13,NA
+511,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",25-04-2023 02:00:00,CO,54,106,72,NA
+512,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",25-04-2023 02:00:00,OZONE,9,207,94,NA
+513,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",25-04-2023 02:00:00,PM2.5,45,322,115,NA
+514,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",25-04-2023 02:00:00,PM10,107,274,160,NA
+515,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",25-04-2023 02:00:00,NO2,15,72,40,NA
+516,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",25-04-2023 02:00:00,NH3,9,14,11,NA
+517,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",25-04-2023 02:00:00,SO2,4,20,8,NA
+518,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",25-04-2023 02:00:00,CO,32,65,45,NA
+519,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",25-04-2023 02:00:00,OZONE,2,92,27,NA
+520,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",25-04-2023 02:00:00,PM2.5,32,226,94,NA
+521,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",25-04-2023 02:00:00,PM10,99,179,136,NA
+522,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",25-04-2023 02:00:00,NO2,23,32,27,NA
+523,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",25-04-2023 02:00:00,CO,86,127,118,NA
+524,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",25-04-2023 02:00:00,OZONE,6,75,19,NA
+525,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",25-04-2023 02:00:00,PM2.5,69,280,133,NA
+526,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",25-04-2023 02:00:00,PM10,70,210,126,NA
+527,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",25-04-2023 02:00:00,NO2,9,17,13,NA
+528,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",25-04-2023 02:00:00,NH3,5,11,7,NA
+529,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",25-04-2023 02:00:00,SO2,12,101,42,NA
+530,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",25-04-2023 02:00:00,CO,24,65,34,NA
+531,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",25-04-2023 02:00:00,OZONE,4,93,37,NA
+532,India,Delhi,Delhi,"ITO, Delhi - CPCB",25-04-2023 02:00:00,PM2.5,42,261,80,NA
+533,India,Delhi,Delhi,"ITO, Delhi - CPCB",25-04-2023 02:00:00,PM10,50,140,78,NA
+534,India,Delhi,Delhi,"ITO, Delhi - CPCB",25-04-2023 02:00:00,NO2,55,203,121,NA
+535,India,Delhi,Delhi,"ITO, Delhi - CPCB",25-04-2023 02:00:00,NH3,2,29,11,NA
+536,India,Delhi,Delhi,"ITO, Delhi - CPCB",25-04-2023 02:00:00,SO2,5,39,15,NA
+537,India,Delhi,Delhi,"ITO, Delhi - CPCB",25-04-2023 02:00:00,CO,32,88,58,NA
+538,India,Delhi,Delhi,"ITO, Delhi - CPCB",25-04-2023 02:00:00,OZONE,3,89,11,NA
+539,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,38,426,143,NA
+540,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",25-04-2023 02:00:00,PM10,131,434,212,NA
+541,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",25-04-2023 02:00:00,NO2,9,28,20,NA
+542,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",25-04-2023 02:00:00,NH3,14,18,15,NA
+543,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+544,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",25-04-2023 02:00:00,CO,20,80,46,NA
+545,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",25-04-2023 02:00:00,OZONE,3,153,52,NA
+546,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,28,180,68,NA
+547,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",25-04-2023 02:00:00,PM10,97,193,125,NA
+548,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",25-04-2023 02:00:00,NO2,19,56,38,NA
+549,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",25-04-2023 02:00:00,NH3,7,11,9,NA
+550,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",25-04-2023 02:00:00,SO2,3,16,8,NA
+551,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",25-04-2023 02:00:00,CO,32,64,44,NA
+552,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",25-04-2023 02:00:00,OZONE,2,111,29,NA
+553,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+554,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+555,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+556,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+557,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",25-04-2023 02:00:00,PM2.5,30,163,63,NA
+558,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",25-04-2023 02:00:00,PM10,90,181,118,NA
+559,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",25-04-2023 02:00:00,NO2,14,16,15,NA
+560,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",25-04-2023 02:00:00,CO,16,20,16,NA
+561,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",25-04-2023 02:00:00,OZONE,11,138,55,NA
+562,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,40,305,90,NA
+563,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",25-04-2023 02:00:00,PM10,112,273,152,NA
+564,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",25-04-2023 02:00:00,NO2,10,66,43,NA
+565,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",25-04-2023 02:00:00,NH3,3,7,5,NA
+566,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",25-04-2023 02:00:00,SO2,5,25,8,NA
+567,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",25-04-2023 02:00:00,CO,48,95,57,NA
+568,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",25-04-2023 02:00:00,OZONE,1,163,40,NA
+569,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,32,324,103,NA
+570,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",25-04-2023 02:00:00,PM10,80,362,157,NA
+571,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",25-04-2023 02:00:00,NO2,147,202,167,NA
+572,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",25-04-2023 02:00:00,NH3,6,9,7,NA
+573,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",25-04-2023 02:00:00,SO2,5,21,13,NA
+574,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",25-04-2023 02:00:00,CO,32,65,46,NA
+575,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",25-04-2023 02:00:00,OZONE,2,182,72,NA
+576,India,Delhi,Delhi,"Mundka, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,50,427,165,NA
+577,India,Delhi,Delhi,"Mundka, Delhi - DPCC",25-04-2023 02:00:00,PM10,129,461,224,NA
+578,India,Delhi,Delhi,"Mundka, Delhi - DPCC",25-04-2023 02:00:00,NO2,30,70,48,NA
+579,India,Delhi,Delhi,"Mundka, Delhi - DPCC",25-04-2023 02:00:00,NH3,3,8,5,NA
+580,India,Delhi,Delhi,"Mundka, Delhi - DPCC",25-04-2023 02:00:00,SO2,15,106,37,NA
+581,India,Delhi,Delhi,"Mundka, Delhi - DPCC",25-04-2023 02:00:00,CO,25,101,48,NA
+582,India,Delhi,Delhi,"Mundka, Delhi - DPCC",25-04-2023 02:00:00,OZONE,6,270,73,NA
+583,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",25-04-2023 02:00:00,PM2.5,110,359,209,NA
+584,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",25-04-2023 02:00:00,PM10,102,195,130,NA
+585,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",25-04-2023 02:00:00,NO2,24,61,44,NA
+586,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",25-04-2023 02:00:00,NH3,8,10,9,NA
+587,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",25-04-2023 02:00:00,SO2,7,30,12,NA
+588,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",25-04-2023 02:00:00,CO,30,68,44,NA
+589,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",25-04-2023 02:00:00,OZONE,14,182,64,NA
+590,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,42,397,148,NA
+591,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",25-04-2023 02:00:00,PM10,118,370,166,NA
+592,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+593,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",25-04-2023 02:00:00,NH3,NA,NA,NA,NA
+594,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+595,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",25-04-2023 02:00:00,CO,16,55,21,NA
+596,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",25-04-2023 02:00:00,OZONE,13,119,48,NA
+597,India,Delhi,Delhi,"Narela, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,50,403,181,NA
+598,India,Delhi,Delhi,"Narela, Delhi - DPCC",25-04-2023 02:00:00,PM10,134,391,204,NA
+599,India,Delhi,Delhi,"Narela, Delhi - DPCC",25-04-2023 02:00:00,NO2,11,47,27,NA
+600,India,Delhi,Delhi,"Narela, Delhi - DPCC",25-04-2023 02:00:00,NH3,8,14,11,NA
+601,India,Delhi,Delhi,"Narela, Delhi - DPCC",25-04-2023 02:00:00,SO2,4,30,11,NA
+602,India,Delhi,Delhi,"Narela, Delhi - DPCC",25-04-2023 02:00:00,CO,30,76,36,NA
+603,India,Delhi,Delhi,"Narela, Delhi - DPCC",25-04-2023 02:00:00,OZONE,2,56,37,NA
+604,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,42,213,87,NA
+605,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",25-04-2023 02:00:00,PM10,96,213,144,NA
+606,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",25-04-2023 02:00:00,NO2,27,115,78,NA
+607,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",25-04-2023 02:00:00,NH3,9,11,10,NA
+608,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",25-04-2023 02:00:00,SO2,9,49,18,NA
+609,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",25-04-2023 02:00:00,CO,2,30,20,NA
+610,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",25-04-2023 02:00:00,OZONE,2,254,68,NA
+611,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",25-04-2023 02:00:00,PM2.5,21,335,97,NA
+612,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",25-04-2023 02:00:00,PM10,67,265,128,NA
+613,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",25-04-2023 02:00:00,NO2,13,210,96,NA
+614,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",25-04-2023 02:00:00,CO,10,161,12,NA
+615,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",25-04-2023 02:00:00,OZONE,6,37,20,NA
+616,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,40,120,76,NA
+617,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",25-04-2023 02:00:00,PM10,107,226,151,NA
+618,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",25-04-2023 02:00:00,NO2,19,120,66,NA
+619,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",25-04-2023 02:00:00,NH3,6,9,8,NA
+620,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",25-04-2023 02:00:00,SO2,6,28,12,NA
+621,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",25-04-2023 02:00:00,CO,42,100,53,NA
+622,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",25-04-2023 02:00:00,OZONE,4,119,51,NA
+623,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,38,333,108,NA
+624,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",25-04-2023 02:00:00,PM10,101,340,174,NA
+625,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",25-04-2023 02:00:00,NO2,19,153,69,NA
+626,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",25-04-2023 02:00:00,NH3,5,8,6,NA
+627,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",25-04-2023 02:00:00,SO2,1,23,6,NA
+628,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",25-04-2023 02:00:00,CO,70,103,79,NA
+629,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",25-04-2023 02:00:00,OZONE,2,238,79,NA
+630,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,45,380,151,NA
+631,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",25-04-2023 02:00:00,PM10,113,369,183,NA
+632,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",25-04-2023 02:00:00,NO2,35,90,70,NA
+633,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",25-04-2023 02:00:00,NH3,2,6,4,NA
+634,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",25-04-2023 02:00:00,SO2,1,43,14,NA
+635,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",25-04-2023 02:00:00,CO,14,124,22,NA
+636,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",25-04-2023 02:00:00,OZONE,7,73,11,NA
+637,India,Delhi,Delhi,"Pusa, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,40,370,117,NA
+638,India,Delhi,Delhi,"Pusa, Delhi - DPCC",25-04-2023 02:00:00,PM10,101,399,165,NA
+639,India,Delhi,Delhi,"Pusa, Delhi - DPCC",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+640,India,Delhi,Delhi,"Pusa, Delhi - DPCC",25-04-2023 02:00:00,NH3,17,22,19,NA
+641,India,Delhi,Delhi,"Pusa, Delhi - DPCC",25-04-2023 02:00:00,SO2,3,23,8,NA
+642,India,Delhi,Delhi,"Pusa, Delhi - DPCC",25-04-2023 02:00:00,CO,24,102,33,NA
+643,India,Delhi,Delhi,"Pusa, Delhi - DPCC",25-04-2023 02:00:00,OZONE,1,45,27,NA
+644,India,Delhi,Delhi,"Pusa, Delhi - IMD",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+645,India,Delhi,Delhi,"Pusa, Delhi - IMD",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+646,India,Delhi,Delhi,"Pusa, Delhi - IMD",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+647,India,Delhi,Delhi,"Pusa, Delhi - IMD",25-04-2023 02:00:00,CO,43,60,57,NA
+648,India,Delhi,Delhi,"Pusa, Delhi - IMD",25-04-2023 02:00:00,OZONE,12,73,24,NA
+649,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,75,277,139,NA
+650,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",25-04-2023 02:00:00,PM10,91,341,153,NA
+651,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",25-04-2023 02:00:00,NO2,14,89,51,NA
+652,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",25-04-2023 02:00:00,NH3,4,6,5,NA
+653,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",25-04-2023 02:00:00,SO2,2,41,11,NA
+654,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",25-04-2023 02:00:00,CO,18,68,31,NA
+655,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",25-04-2023 02:00:00,OZONE,2,135,48,NA
+656,India,Delhi,Delhi,"Rohini, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,48,409,134,NA
+657,India,Delhi,Delhi,"Rohini, Delhi - DPCC",25-04-2023 02:00:00,PM10,100,378,167,NA
+658,India,Delhi,Delhi,"Rohini, Delhi - DPCC",25-04-2023 02:00:00,NO2,13,66,34,NA
+659,India,Delhi,Delhi,"Rohini, Delhi - DPCC",25-04-2023 02:00:00,NH3,9,17,11,NA
+660,India,Delhi,Delhi,"Rohini, Delhi - DPCC",25-04-2023 02:00:00,SO2,4,37,10,NA
+661,India,Delhi,Delhi,"Rohini, Delhi - DPCC",25-04-2023 02:00:00,CO,40,78,53,NA
+662,India,Delhi,Delhi,"Rohini, Delhi - DPCC",25-04-2023 02:00:00,OZONE,2,89,31,NA
+663,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",25-04-2023 02:00:00,PM2.5,34,216,105,NA
+664,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",25-04-2023 02:00:00,PM10,113,333,191,NA
+665,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",25-04-2023 02:00:00,NO2,37,101,72,NA
+666,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",25-04-2023 02:00:00,NH3,9,16,12,NA
+667,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",25-04-2023 02:00:00,SO2,5,37,16,NA
+668,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",25-04-2023 02:00:00,CO,10,72,38,NA
+669,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",25-04-2023 02:00:00,OZONE,13,69,35,NA
+670,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",25-04-2023 02:00:00,PM2.5,47,137,80,NA
+671,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",25-04-2023 02:00:00,PM10,105,188,138,NA
+672,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",25-04-2023 02:00:00,NO2,27,57,39,NA
+673,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",25-04-2023 02:00:00,NH3,15,29,22,NA
+674,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",25-04-2023 02:00:00,SO2,15,17,16,NA
+675,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",25-04-2023 02:00:00,CO,20,62,27,NA
+676,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",25-04-2023 02:00:00,OZONE,14,49,22,NA
+677,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,38,404,126,NA
+678,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",25-04-2023 02:00:00,PM10,120,401,183,NA
+679,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",25-04-2023 02:00:00,NO2,12,39,25,NA
+680,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",25-04-2023 02:00:00,NH3,7,13,10,NA
+681,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",25-04-2023 02:00:00,SO2,2,28,8,NA
+682,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",25-04-2023 02:00:00,CO,30,106,88,NA
+683,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",25-04-2023 02:00:00,OZONE,1,61,30,NA
+684,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,40,140,67,NA
+685,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",25-04-2023 02:00:00,PM10,74,195,128,NA
+686,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",25-04-2023 02:00:00,NO2,22,68,46,NA
+687,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",25-04-2023 02:00:00,NH3,5,7,6,NA
+688,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",25-04-2023 02:00:00,SO2,3,34,12,NA
+689,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",25-04-2023 02:00:00,CO,26,60,40,NA
+690,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",25-04-2023 02:00:00,OZONE,1,211,70,NA
+691,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,27,379,144,NA
+692,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",25-04-2023 02:00:00,PM10,104,433,182,NA
+693,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",25-04-2023 02:00:00,NO2,10,63,31,NA
+694,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",25-04-2023 02:00:00,NH3,7,11,9,NA
+695,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",25-04-2023 02:00:00,SO2,4,38,12,NA
+696,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",25-04-2023 02:00:00,CO,40,98,54,NA
+697,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",25-04-2023 02:00:00,OZONE,1,65,30,NA
+698,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",25-04-2023 02:00:00,PM2.5,42,382,142,NA
+699,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",25-04-2023 02:00:00,PM10,123,376,189,NA
+700,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",25-04-2023 02:00:00,NO2,23,63,44,NA
+701,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",25-04-2023 02:00:00,NH3,11,16,13,NA
+702,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",25-04-2023 02:00:00,SO2,5,46,13,NA
+703,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",25-04-2023 02:00:00,CO,42,100,57,NA
+704,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",25-04-2023 02:00:00,OZONE,3,68,27,NA
+705,India,Gujarat,Ahmedabad,"Chandkheda, Ahmedabad - IITM",25-04-2023 02:00:00,PM2.5,55,126,79,NA
+706,India,Gujarat,Ahmedabad,"Chandkheda, Ahmedabad - IITM",25-04-2023 02:00:00,PM10,54,109,83,NA
+707,India,Gujarat,Ahmedabad,"Chandkheda, Ahmedabad - IITM",25-04-2023 02:00:00,NO2,9,9,9,NA
+708,India,Gujarat,Ahmedabad,"Chandkheda, Ahmedabad - IITM",25-04-2023 02:00:00,NH3,2,3,2,NA
+709,India,Gujarat,Ahmedabad,"Chandkheda, Ahmedabad - IITM",25-04-2023 02:00:00,SO2,6,34,12,NA
+710,India,Gujarat,Ahmedabad,"Chandkheda, Ahmedabad - IITM",25-04-2023 02:00:00,CO,NA,NA,NA,NA
+711,India,Gujarat,Ahmedabad,"Chandkheda, Ahmedabad - IITM",25-04-2023 02:00:00,OZONE,3,50,36,NA
+712,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",25-04-2023 02:00:00,PM2.5,29,139,70,NA
+713,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",25-04-2023 02:00:00,PM10,129,129,129,NA
+714,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",25-04-2023 02:00:00,NO2,19,153,64,NA
+715,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",25-04-2023 02:00:00,SO2,1,102,34,NA
+716,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",25-04-2023 02:00:00,CO,10,130,77,NA
+717,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",25-04-2023 02:00:00,OZONE,43,130,64,NA
+718,India,Gujarat,Ahmedabad,"Raikhad, Ahmedabad - IITM",25-04-2023 02:00:00,PM2.5,2,347,135,NA
+719,India,Gujarat,Ahmedabad,"Raikhad, Ahmedabad - IITM",25-04-2023 02:00:00,PM10,4,416,154,NA
+720,India,Gujarat,Ahmedabad,"Raikhad, Ahmedabad - IITM",25-04-2023 02:00:00,NO2,3,7,4,NA
+721,India,Gujarat,Ahmedabad,"Raikhad, Ahmedabad - IITM",25-04-2023 02:00:00,NH3,1,1,1,NA
+722,India,Gujarat,Ahmedabad,"Raikhad, Ahmedabad - IITM",25-04-2023 02:00:00,SO2,1,17,4,NA
+723,India,Gujarat,Ahmedabad,"Raikhad, Ahmedabad - IITM",25-04-2023 02:00:00,CO,16,38,31,NA
+724,India,Gujarat,Ahmedabad,"Raikhad, Ahmedabad - IITM",25-04-2023 02:00:00,OZONE,4,11,8,NA
+725,India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",25-04-2023 02:00:00,PM2.5,78,264,114,NA
+726,India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",25-04-2023 02:00:00,PM10,98,185,122,NA
+727,India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",25-04-2023 02:00:00,NO2,28,88,46,NA
+728,India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",25-04-2023 02:00:00,NH3,8,26,13,NA
+729,India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",25-04-2023 02:00:00,SO2,2,40,10,NA
+730,India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",25-04-2023 02:00:00,OZONE,2,3,2,NA
+731,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",25-04-2023 02:00:00,PM2.5,114,122,119,NA
+732,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",25-04-2023 02:00:00,PM10,122,125,124,NA
+733,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",25-04-2023 02:00:00,NO2,16,18,17,NA
+734,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",25-04-2023 02:00:00,NH3,7,7,7,NA
+735,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",25-04-2023 02:00:00,SO2,10,12,11,NA
+736,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",25-04-2023 02:00:00,CO,23,25,24,NA
+737,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",25-04-2023 02:00:00,PM2.5,95,96,96,NA
+738,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",25-04-2023 02:00:00,PM10,110,111,111,NA
+739,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",25-04-2023 02:00:00,NO2,11,12,12,NA
+740,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",25-04-2023 02:00:00,NH3,6,6,6,NA
+741,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",25-04-2023 02:00:00,OZONE,3,48,15,NA
+742,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",25-04-2023 02:00:00,PM2.5,44,79,59,NA
+743,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",25-04-2023 02:00:00,PM10,45,86,63,NA
+744,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",25-04-2023 02:00:00,SO2,118,119,118,NA
+745,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",25-04-2023 02:00:00,CO,14,54,28,NA
+746,India,Gujarat,Ahmedabad,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",25-04-2023 02:00:00,PM2.5,58,140,85,NA
+747,India,Gujarat,Ahmedabad,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",25-04-2023 02:00:00,PM10,68,131,99,NA
+748,India,Gujarat,Ahmedabad,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",25-04-2023 02:00:00,NO2,25,26,26,NA
+749,India,Gujarat,Ahmedabad,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",25-04-2023 02:00:00,NH3,6,6,6,NA
+750,India,Gujarat,Ahmedabad,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",25-04-2023 02:00:00,CO,3,36,21,NA
+751,India,Gujarat,Ahmedabad,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",25-04-2023 02:00:00,OZONE,2,11,2,NA
+752,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",25-04-2023 02:00:00,PM2.5,30,169,67,NA
+753,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",25-04-2023 02:00:00,PM10,43,163,81,NA
+754,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",25-04-2023 02:00:00,NO2,18,97,39,NA
+755,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",25-04-2023 02:00:00,NH3,3,5,4,NA
+756,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+757,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",25-04-2023 02:00:00,CO,64,136,113,NA
+758,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",25-04-2023 02:00:00,OZONE,15,42,21,NA
+759,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+760,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+761,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+762,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",25-04-2023 02:00:00,NH3,NA,NA,NA,NA
+763,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+764,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",25-04-2023 02:00:00,CO,14,32,25,NA
+765,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",25-04-2023 02:00:00,OZONE,18,50,30,NA
+766,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",25-04-2023 02:00:00,PM2.5,36,243,149,NA
+767,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",25-04-2023 02:00:00,PM10,29,131,91,NA
+768,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",25-04-2023 02:00:00,NO2,14,14,14,NA
+769,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",25-04-2023 02:00:00,NH3,2,2,2,NA
+770,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",25-04-2023 02:00:00,SO2,2,10,6,NA
+771,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",25-04-2023 02:00:00,CO,18,46,37,NA
+772,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",25-04-2023 02:00:00,OZONE,1,71,6,NA
+773,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",25-04-2023 02:00:00,PM2.5,19,53,38,NA
+774,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",25-04-2023 02:00:00,PM10,47,80,60,NA
+775,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",25-04-2023 02:00:00,NO2,8,13,11,NA
+776,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",25-04-2023 02:00:00,NH3,2,3,3,NA
+777,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",25-04-2023 02:00:00,SO2,2,20,7,NA
+778,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",25-04-2023 02:00:00,CO,37,57,50,NA
+779,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",25-04-2023 02:00:00,OZONE,23,57,50,NA
+780,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",25-04-2023 02:00:00,PM2.5,68,143,89,NA
+781,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",25-04-2023 02:00:00,PM10,51,287,93,NA
+782,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",25-04-2023 02:00:00,NH3,6,6,6,NA
+783,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",25-04-2023 02:00:00,SO2,34,40,37,NA
+784,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",25-04-2023 02:00:00,CO,39,102,69,NA
+785,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",25-04-2023 02:00:00,OZONE,NA,NA,NA,NA
+786,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",25-04-2023 02:00:00,PM2.5,58,210,119,NA
+787,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",25-04-2023 02:00:00,PM10,80,147,110,NA
+788,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",25-04-2023 02:00:00,NO2,8,13,9,NA
+789,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",25-04-2023 02:00:00,NH3,1,1,1,NA
+790,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",25-04-2023 02:00:00,SO2,1,19,8,NA
+791,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",25-04-2023 02:00:00,CO,2,66,36,NA
+792,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",25-04-2023 02:00:00,OZONE,19,83,40,NA
+793,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",25-04-2023 02:00:00,PM2.5,42,89,72,NA
+794,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",25-04-2023 02:00:00,PM10,45,95,77,NA
+795,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",25-04-2023 02:00:00,NO2,6,9,6,NA
+796,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",25-04-2023 02:00:00,NH3,8,17,17,NA
+797,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",25-04-2023 02:00:00,SO2,2,37,11,NA
+798,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",25-04-2023 02:00:00,CO,12,26,17,NA
+799,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",25-04-2023 02:00:00,OZONE,1,87,16,NA
+800,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",25-04-2023 02:00:00,PM2.5,20,328,139,NA
+801,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",25-04-2023 02:00:00,PM10,87,250,150,NA
+802,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",25-04-2023 02:00:00,NO2,44,59,53,NA
+803,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",25-04-2023 02:00:00,NH3,9,14,11,NA
+804,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",25-04-2023 02:00:00,SO2,8,113,33,NA
+805,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",25-04-2023 02:00:00,CO,20,31,28,NA
+806,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",25-04-2023 02:00:00,OZONE,40,58,53,NA
+807,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",25-04-2023 02:00:00,PM2.5,14,66,34,NA
+808,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",25-04-2023 02:00:00,PM10,22,322,62,NA
+809,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",25-04-2023 02:00:00,NO2,5,7,6,NA
+810,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",25-04-2023 02:00:00,NH3,1,2,2,NA
+811,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",25-04-2023 02:00:00,SO2,4,11,9,NA
+812,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",25-04-2023 02:00:00,CO,46,57,52,NA
+813,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",25-04-2023 02:00:00,OZONE,2,23,14,NA
+814,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",25-04-2023 02:00:00,PM2.5,68,185,112,NA
+815,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",25-04-2023 02:00:00,PM10,53,168,115,NA
+816,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",25-04-2023 02:00:00,NO2,49,79,64,NA
+817,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",25-04-2023 02:00:00,NH3,5,7,6,NA
+818,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",25-04-2023 02:00:00,SO2,1,18,9,NA
+819,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",25-04-2023 02:00:00,CO,12,48,29,NA
+820,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",25-04-2023 02:00:00,OZONE,12,22,16,NA
+821,India,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",25-04-2023 02:00:00,PM2.5,84,287,188,NA
+822,India,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",25-04-2023 02:00:00,PM10,77,152,120,NA
+823,India,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+824,India,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",25-04-2023 02:00:00,NH3,3,9,5,NA
+825,India,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",25-04-2023 02:00:00,SO2,9,23,13,NA
+826,India,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",25-04-2023 02:00:00,CO,23,46,38,NA
+827,India,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",25-04-2023 02:00:00,OZONE,13,17,15,NA
+828,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",25-04-2023 02:00:00,PM2.5,71,205,100,NA
+829,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",25-04-2023 02:00:00,PM10,129,207,155,NA
+830,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",25-04-2023 02:00:00,NO2,17,49,35,NA
+831,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",25-04-2023 02:00:00,NH3,2,14,8,NA
+832,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",25-04-2023 02:00:00,SO2,7,23,14,NA
+833,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",25-04-2023 02:00:00,CO,10,32,22,NA
+834,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",25-04-2023 02:00:00,OZONE,1,91,9,NA
+835,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",25-04-2023 02:00:00,PM2.5,19,67,44,NA
+836,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",25-04-2023 02:00:00,PM10,26,83,68,NA
+837,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",25-04-2023 02:00:00,NO2,12,19,15,NA
+838,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",25-04-2023 02:00:00,NH3,2,6,3,NA
+839,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",25-04-2023 02:00:00,SO2,1,2,2,NA
+840,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",25-04-2023 02:00:00,CO,16,38,24,NA
+841,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",25-04-2023 02:00:00,OZONE,16,50,33,NA
+842,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",25-04-2023 02:00:00,PM2.5,190,216,204,NA
+843,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",25-04-2023 02:00:00,PM10,111,378,171,NA
+844,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",25-04-2023 02:00:00,NO2,30,32,31,NA
+845,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",25-04-2023 02:00:00,NH3,6,6,6,NA
+846,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",25-04-2023 02:00:00,SO2,3,56,33,NA
+847,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",25-04-2023 02:00:00,CO,24,44,28,NA
+848,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",25-04-2023 02:00:00,OZONE,1,20,11,NA
+849,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+850,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+851,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+852,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",25-04-2023 02:00:00,NH3,NA,NA,NA,NA
+853,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+854,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",25-04-2023 02:00:00,CO,3,72,31,NA
+855,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",25-04-2023 02:00:00,OZONE,28,96,58,NA
+856,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",25-04-2023 02:00:00,PM2.5,50,157,81,NA
+857,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",25-04-2023 02:00:00,PM10,148,158,154,NA
+858,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",25-04-2023 02:00:00,NO2,29,32,30,NA
+859,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",25-04-2023 02:00:00,NH3,9,11,10,NA
+860,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",25-04-2023 02:00:00,SO2,5,7,6,NA
+861,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",25-04-2023 02:00:00,CO,42,48,45,NA
+862,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",25-04-2023 02:00:00,OZONE,88,95,92,NA
+863,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+864,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+865,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+866,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",25-04-2023 02:00:00,CO,NA,NA,NA,NA
+867,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",25-04-2023 02:00:00,OZONE,NA,NA,NA,NA
+868,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",25-04-2023 02:00:00,PM2.5,132,310,230,NA
+869,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",25-04-2023 02:00:00,PM10,107,175,139,NA
+870,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",25-04-2023 02:00:00,NO2,29,48,35,NA
+871,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",25-04-2023 02:00:00,NH3,19,31,22,NA
+872,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",25-04-2023 02:00:00,SO2,2,5,4,NA
+873,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",25-04-2023 02:00:00,CO,22,70,39,NA
+874,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",25-04-2023 02:00:00,OZONE,6,68,31,NA
+875,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",25-04-2023 02:00:00,PM2.5,53,311,154,NA
+876,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",25-04-2023 02:00:00,PM10,112,172,139,NA
+877,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",25-04-2023 02:00:00,NO2,7,14,11,NA
+878,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",25-04-2023 02:00:00,NH3,6,17,10,NA
+879,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",25-04-2023 02:00:00,SO2,4,21,10,NA
+880,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",25-04-2023 02:00:00,CO,14,26,17,NA
+881,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",25-04-2023 02:00:00,OZONE,5,108,30,NA
+882,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",25-04-2023 02:00:00,PM2.5,43,318,173,NA
+883,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",25-04-2023 02:00:00,NO2,37,72,51,NA
+884,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",25-04-2023 02:00:00,SO2,12,38,22,NA
+885,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",25-04-2023 02:00:00,CO,5,193,111,NA
+886,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",25-04-2023 02:00:00,OZONE,14,123,55,NA
+887,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+888,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+889,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+890,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",25-04-2023 02:00:00,NH3,NA,NA,NA,NA
+891,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+892,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",25-04-2023 02:00:00,CO,12,30,22,NA
+893,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",25-04-2023 02:00:00,OZONE,19,29,23,NA
+894,India,Haryana,Jind,"Police Lines, Jind - HSPCB",25-04-2023 02:00:00,PM2.5,42,95,63,NA
+895,India,Haryana,Jind,"Police Lines, Jind - HSPCB",25-04-2023 02:00:00,PM10,49,125,80,NA
+896,India,Haryana,Jind,"Police Lines, Jind - HSPCB",25-04-2023 02:00:00,NO2,48,50,49,NA
+897,India,Haryana,Jind,"Police Lines, Jind - HSPCB",25-04-2023 02:00:00,NH3,6,8,7,NA
+898,India,Haryana,Jind,"Police Lines, Jind - HSPCB",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+899,India,Haryana,Jind,"Police Lines, Jind - HSPCB",25-04-2023 02:00:00,CO,58,130,108,NA
+900,India,Haryana,Jind,"Police Lines, Jind - HSPCB",25-04-2023 02:00:00,OZONE,8,32,22,NA
+901,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",25-04-2023 02:00:00,PM2.5,60,187,113,NA
+902,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",25-04-2023 02:00:00,PM10,107,196,158,NA
+903,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",25-04-2023 02:00:00,NO2,11,14,13,NA
+904,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",25-04-2023 02:00:00,NH3,4,6,5,NA
+905,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",25-04-2023 02:00:00,SO2,13,44,23,NA
+906,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",25-04-2023 02:00:00,CO,10,40,25,NA
+907,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",25-04-2023 02:00:00,OZONE,13,40,31,NA
+908,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",25-04-2023 02:00:00,PM2.5,39,76,56,NA
+909,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",25-04-2023 02:00:00,PM10,56,113,93,NA
+910,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",25-04-2023 02:00:00,NO2,7,12,10,NA
+911,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",25-04-2023 02:00:00,NH3,10,13,11,NA
+912,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+913,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",25-04-2023 02:00:00,CO,12,44,27,NA
+914,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",25-04-2023 02:00:00,OZONE,1,27,18,NA
+915,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",25-04-2023 02:00:00,PM2.5,83,184,138,NA
+916,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",25-04-2023 02:00:00,PM10,96,195,137,NA
+917,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",25-04-2023 02:00:00,NO2,15,44,27,NA
+918,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",25-04-2023 02:00:00,NH3,1,5,3,NA
+919,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",25-04-2023 02:00:00,SO2,2,101,13,NA
+920,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",25-04-2023 02:00:00,CO,6,42,22,NA
+921,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",25-04-2023 02:00:00,OZONE,5,120,69,NA
+922,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",25-04-2023 02:00:00,PM2.5,10,46,22,NA
+923,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",25-04-2023 02:00:00,PM10,31,204,65,NA
+924,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",25-04-2023 02:00:00,NO2,15,17,16,NA
+925,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",25-04-2023 02:00:00,NH3,12,14,13,NA
+926,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",25-04-2023 02:00:00,SO2,23,28,25,NA
+927,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",25-04-2023 02:00:00,CO,10,11,10,NA
+928,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",25-04-2023 02:00:00,OZONE,18,23,20,NA
+929,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",25-04-2023 02:00:00,PM2.5,65,235,153,NA
+930,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",25-04-2023 02:00:00,PM10,88,137,115,NA
+931,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",25-04-2023 02:00:00,NO2,21,55,33,NA
+932,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",25-04-2023 02:00:00,NH3,21,54,31,NA
+933,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",25-04-2023 02:00:00,SO2,1,8,5,NA
+934,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",25-04-2023 02:00:00,CO,14,31,17,NA
+935,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",25-04-2023 02:00:00,OZONE,6,74,46,NA
+936,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",25-04-2023 02:00:00,PM2.5,NA,NA,NA,NA
+937,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",25-04-2023 02:00:00,PM10,NA,NA,NA,NA
+938,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",25-04-2023 02:00:00,NO2,NA,NA,NA,NA
+939,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",25-04-2023 02:00:00,NH3,NA,NA,NA,NA
+940,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",25-04-2023 02:00:00,SO2,NA,NA,NA,NA
+941,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",25-04-2023 02:00:00,CO,9,38,14,NA
+942,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",25-04-2023 02:00:00,OZONE,19,89,32,NA
+943,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",25-04-2023 02:00:00,PM2.5,10,33,22,NA
+944,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",25-04-2023 02:00:00,PM10,60,102,77,NA
+945,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",25-04-2023 02:00:00,NO2,23,24,24,NA
+946,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",25-04-2023 02:00:00,NH3,8,9,9,NA
+947,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",25-04-2023 02:00:00,SO2,6,20,13,NA
+948,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",25-04-2023 02:00:00,CO,10,20,15,NA
+949,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",25-04-2023 02:00:00,OZONE,1,48,15,NA
+950,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",25-04-2023 02:00:00,PM2.5,28,213,99,NA
+951,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",25-04-2023 02:00:00,NO2,23,26,24,NA
+952,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",25-04-2023 02:00:00,SO2,3,25,10,NA
+953,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",25-04-2023 02:00:00,CO,20,57,33,NA
+954,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",25-04-2023 02:00:00,OZONE,8,37,16,NA
+955,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",25-04-2023 02:00:00,PM2.5,15,30,23,NA
+956,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",25-04-2023 02:00:00,PM10,110,179,146,NA
+957,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",25-04-2023 02:00:00,NO2,28,32,30,NA
+958,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",25-04-2023 02:00:00,NH3,2,3,2,NA
+959,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",25-04-2023 02:00:00,SO2,10,15,13,NA
+960,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",25-04-2023 02:00:00,CO,14,34,21,NA
+961,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",25-04-2023 02:00:00,OZONE,30,34,32,NA
+962,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",25-04-2023 02:00:00,PM2.5,56,306,153,NA
+963,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",25-04-2023 02:00:00,NO2,33,39,36,NA
+964,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",25-04-2023 02:00:00,SO2,6,8,7,NA
+965,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",25-04-2023 02:00:00,CO,2,38,32,NA
+966,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",25-04-2023 02:00:00,OZONE,35,42,39,NA
+967,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",25-04-2023 02:00:00,PM2.5,2,406,60,NA
+968,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",25-04-2023 02:00:00,PM10,60,453,177,NA
+969,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",25-04-2023 02:00:00,NO2,12,80,33,NA
+970,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",25-04-2023 02:00:00,NH3,5,15,10,NA
+971,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",25-04-2023 02:00:00,SO2,4,45,26,NA
+972,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",25-04-2023 02:00:00,CO,14,100,50,NA
+973,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",25-04-2023 02:00:00,OZONE,2,142,63,NA
+974,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",25-04-2023 02:00:00,PM2.5,32,69,49,NA
+975,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",25-04-2023 02:00:00,PM10,137,202,171,NA
+976,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",25-04-2023 02:00:00,NO2,37,45,40,NA
+977,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",25-04-2023 02:00:00,NH3,11,14,13,NA
+978,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",25-04-2023 02:00:00,SO2,19,25,22,NA
+979,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",25-04-2023 02:00:00,CO,13,28,20,NA
+980,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",25-04-2023 02:00:00,OZONE,16,36,22,NA
+981,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",25-04-2023 02:00:00,PM2.5,53,197,100,NA
+982,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",25-04-2023 02:00:00,PM10,109,500,159,NA
+983,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",25-04-2023 02:00:00,NO2,2,9,6,NA
+984,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",25-04-2023 02:00:00,NH3,1,2,1,NA
+985,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",25-04-2023 02:00:00,SO2,2,21,9,NA
+986,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",25-04-2023 02:00:00,CO,14,52,28,NA
+987,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",25-04-2023 02:00:00,OZONE,11,30,21,NA
+988,India,Himachal Pradesh,Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",25-04-2023 02:00:00,PM2.5,32,263,86,NA
+989,India,Himachal Pradesh,Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",25-04-2023 02:00:00,PM10,57,271,126,NA
+990,India,Himachal Pradesh,Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",25-04-2023 02:00:00,NO2,12,63,28,NA
+991,India,Himachal Pradesh,Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",25-04-2023 02:00:00,NH3,2,4,3,NA
+992,India,Himachal Pradesh,Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",25-04-2023 02:00:00,SO2,19,120,58,NA
+993,India,Himachal Pradesh,Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",25-04-2023 02:00:00,CO,14,34,26,NA
+994,India,Himachal Pradesh,Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",25-04-2023 02:00:00,OZONE,73,239,137,NA
+995,India,Jharkhand,Dhanbad,"Sardar Patel Nagar, Dhanbad - JSPCB",25-04-2023 02:00:00,PM2.5,89,293,148,NA
+996,India,Jharkhand,Dhanbad,"Sardar Patel Nagar, Dhanbad - JSPCB",25-04-2023 02:00:00,NO2,7,31,17,NA
+997,India,Jharkhand,Dhanbad,"Sardar Patel Nagar, Dhanbad - JSPCB",25-04-2023 02:00:00,OZONE,13,99,55,NA
+998,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",25-04-2023 02:00:00,PM10,88,151,116,NA
+999,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",25-04-2023 02:00:00,NO2,16,17,17,NA
+1000,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",25-04-2023 02:00:00,NH3,1,1,1,NA
