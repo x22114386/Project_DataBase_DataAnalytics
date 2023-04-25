@@ -7,7 +7,7 @@ https://catalog.data.gov/dataset/single-use-parking-permit-on-street JSON
 Parking Permits issued for a particular purpose in designated parking zones or at specific locations for prearranged periods of time,and is not issued for commercial activities or to commercial vehicles
 
 Karthika Nair <x22105522@student.ncirl.ie>
-Law Enforcement Dispatched Calls for Service: Real-Time - Catalog (data.gov) i'll use JSON
-Detailed Emergency call logs made to the Law Enforcement Department
+Energy efficiency projects implemented in the state of New York, US.
+Depicts the energy savings in kWh, MMbtu units and cost savings.
 
 Mary Cindrilla Moreira <x22114386@student.ncirl.ie>
